@@ -1,2 +1,2 @@
-print ("Devops Git release lecture")
+print ("Devops Git main lecture")
 print ("hello world")
